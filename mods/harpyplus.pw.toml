@@ -1,0 +1,8 @@
+name = "HarpyPlus"
+filename = "harpyplus-latest.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/rohanverma2007/traingame/main/overrides/mods/harpyplus-latest.jar"
+hash-format = "sha256"
+hash = "0f0466c82982015e7e6caec619f415a97dc0a7f7aff28cc2838d85a8e96c6835"

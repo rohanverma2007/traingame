@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".build.yml"
+hash = "9801d202e98d621643078011770afce153f613ab5662a50123e7da53f08c8003"
+
+[[files]]
+file = ".github/workflows/static.yml"
+hash = "f2d965580744ee9ee893f4f5de6017da9d55a5850b86fc4c47dc138db7b8bcb4"
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "48768390d0ed8904ef38ffb095ff612b1f6b28d2a8300b1d3e4c67d02a2caf53"
 metafile = true
@@ -73,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/harpymodloader.pw.toml"
 hash = "7e63b87a2fc40f94dfb86c9c4a7ad15d7e6c5aea92e9426e2f875954124c1462"
+metafile = true
+
+[[files]]
+file = "mods/harpyplus.pw.toml"
+hash = "7dc4c38c4634a17c920730dbcb4292f8454115c62ec1950d5e99066629959500"
 metafile = true
 
 [[files]]
