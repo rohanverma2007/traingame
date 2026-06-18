@@ -1,0 +1,9 @@
+image: alpine/edge
+packages:
+  - hut
+sources:
+  - https://git.sr.ht/~verma/traingame
+tasks:
+  - upload: |
+      cd traingame
+      hut pages publish -d . --domain train.rsap.sh
