@@ -1,0 +1,27 @@
+{
+	// Don't change this! Version used to track needed updates.
+	"version": 0,
+	"rolesSection": {
+		"necromancerSection": {
+			"necromancerHasShop": false
+		},
+		"arsonistSection": {
+			"arsonistKeepsGameGoing": true
+		},
+		"initiateSection": {
+			"initiateFallbackRole": "AMNESIAC"
+		},
+		"amnesiacSection": {
+			"bodiesGlowToAmnesiac": true,
+			"amnesiacGlowsDifferently": false
+		}
+	},
+	"modifiersSection": {
+		"loversSection": {
+			"loversKnowImmediately": true,
+			"loversWinWithKillers": false,
+			"loversWinWithCivilians": true,
+			"loversGlowToEachother": true
+		}
+	}
+}

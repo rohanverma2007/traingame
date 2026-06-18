@@ -1,0 +1,13 @@
+name = "Wathe: Murder Mystery"
+filename = "wathe-1.3.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XoU7Lf7D/versions/3Kw6IUoN/wathe-1.3.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "57b4f57d64c1264a576b64e8c5db61e0d6025e26651893846f1de021c34ea2bfd7861eb641f803d3165682d13854a1493db1ed3524d39c8d5870939335c61ce0"
+
+[update]
+[update.modrinth]
+mod-id = "XoU7Lf7D"
+version = "3Kw6IUoN"

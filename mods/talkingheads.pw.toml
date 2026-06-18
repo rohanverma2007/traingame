@@ -1,0 +1,13 @@
+name = "Talking Heads"
+filename = "TalkingHeads-1.1.1-logerfix+1.21.1+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Os35nfkh/versions/EBsQYESG/TalkingHeads-1.1.1-logerfix%2B1.21.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "34970a74ecc6607a80a8b3a860ea780b4809f7e4ab5a0aeabc5dc693c0de67ddd11844a938d1c8361274064227b38694adcbf313763db930523b9a2999e4ef6d"
+
+[update]
+[update.modrinth]
+mod-id = "Os35nfkh"
+version = "EBsQYESG"

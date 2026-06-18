@@ -1,0 +1,43 @@
+{
+	// Whether insane players will randomly see people as morphed.
+	insanePlayersSeeMorphs: false,
+	// Allows the shitpost roles to retain their disable/enable state after a server restart
+	shitpostRoles: false,
+	// Starting cooldown (in ticks)
+	generalCooldownTicks: 600,
+	// Allow Natural deaths to trigger voodoo (deaths without an assigned killer)
+	voodooNonKillerDeaths: false,
+	// Makes voodoos act like Evil players when shot by a revolver (no backfire, no gun lost)
+	voodooShotLikeEvil: true,
+	// Civillians can get the guesser modifier.
+	allowCivillianGuessers: false,
+	// How the guesser dies after an incorrect guess.
+	// "none" (default) - nothing happens, 2 minute cooldown applied
+	// "death" kills the player with a voodoo death message
+	// "explode" explodes the guesser, killing anyone nearby
+	guesserDiesAfterIncorrectGuess: "death",
+	// How many players must be online for the Master Key to look like a master key and not a lockpick. (0 = key always looks like a lockpick, 1-6 = key always looks normal)
+	playerCountToMakeConducterKeyVisible: 10,
+	// How many defense vials can be bought by one bartender in a round. (0 = no limit)
+	maximumDefenseVials: 1,
+	// Price of the Bartender's Defense Vial.
+	defenseVialPrice: 200,
+	// How long Defence Vials last (in ticks). -1 = infinite
+	defenseMaximumTime: -1,
+	// Price of the Trapper's Role Mine.
+	roleMinePrice: 100,
+	// How far an introvert must be from other players to see people in Instinct.
+	introvertDisableRange: 20,
+	// How long the Infected's poison takes to kill a target. (default = 1100 ticks)
+	infectedKillTime: 1100,
+	// How likely someone who is infected will cough every second of 100. (default = 5%)
+	infectedCoughChance: 5,
+	// If players with the guesser modifier can use instinct.
+	guesserCanUseInstinct: true,
+	// Trappers see people's names rather than roles
+	trapperSeesNames: false,
+	// Recons see people's names rather than roles
+	reconsSeeNames: false,
+	// If the Executioner can pick up dropped guns.
+	executionCanPickUpGun: true
+}

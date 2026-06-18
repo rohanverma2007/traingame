@@ -1,0 +1,13 @@
+name = "Noelle's Roles - Wathe"
+filename = "noellesroles-1.7.1-h1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bcyhFQFE/versions/aSzLdnCB/noellesroles-1.7.1-h1.3.jar"
+hash-format = "sha512"
+hash = "ba03e472f863a9fb9c0d386f5801ecf74a1a8832ebe72a06e28199a878c3e101e737db2eefef314a581798d067851037da2aee77e47b32a017ddad016f87f842"
+
+[update]
+[update.modrinth]
+mod-id = "bcyhFQFE"
+version = "aSzLdnCB"

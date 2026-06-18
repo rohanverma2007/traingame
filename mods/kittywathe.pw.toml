@@ -1,0 +1,13 @@
+name = "kittyWathe"
+filename = "kittyWathe-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iLf7rjCV/versions/AVOgnXEo/kittyWathe-1.1.1.jar"
+hash-format = "sha512"
+hash = "c9c6760243098ddbbf1146751d724f566bc572992c14033a360f10d95f9dbc637fe4ef36796cfacb2f6104fd0806f87ac3a74085b6a4f9810682d30c97de45f6"
+
+[update]
+[update.modrinth]
+mod-id = "iLf7rjCV"
+version = "AVOgnXEo"

@@ -1,0 +1,7 @@
+{
+  "chatHud": {
+    // Show the chat HUD.
+    // This will still prevent non-op players to send messages and commands. enabling this
+    "showDuringGame": true
+  }
+}

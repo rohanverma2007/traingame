@@ -1,0 +1,13 @@
+name = "Stupid Express"
+filename = "stupid-express-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JNDpuNiN/versions/VGwdK2U5/stupid-express-0.7.1.jar"
+hash-format = "sha512"
+hash = "e63e05accd987bcf33a79debe5388dee5ccaf6ae3199dc3e37c68b38d6b097e3785f554a6fb61df87fc4166d5dbe12cf4785d6eb48565a4c490f4dfe2ac9c37a"
+
+[update]
+[update.modrinth]
+mod-id = "JNDpuNiN"
+version = "VGwdK2U5"

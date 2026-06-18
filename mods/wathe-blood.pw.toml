@@ -1,0 +1,13 @@
+name = "Blood - Wathe"
+filename = "wathe_blood-1.1.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FZmuqTmg/versions/hZP3gLpl/wathe_blood-1.1.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "50f11f05522854e5768694c8ecba2cc5c2c81cf3fbc768c509f2380e74dfa9dc533f399511187e12889a6806930bdf05a59cdb1712ed38cc46107e88090ef33c"
+
+[update]
+[update.modrinth]
+mod-id = "FZmuqTmg"
+version = "hZP3gLpl"

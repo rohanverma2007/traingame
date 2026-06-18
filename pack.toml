@@ -1,0 +1,13 @@
+name = "Traingame"
+author = "rsap"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "80b93ce0d821be8794d5b433f17ea5bd6f216676cb55ef3cd34870f8b504d59d"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.1"

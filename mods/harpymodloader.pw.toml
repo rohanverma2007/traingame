@@ -1,0 +1,13 @@
+name = "HarpyModLoader"
+filename = "harpymodloader-1.2.4-h1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JRhdijgD/versions/nMW4YJds/harpymodloader-1.2.4-h1.3.jar"
+hash-format = "sha512"
+hash = "c0128a591fe1f140da953b990d8383e9d846f5bcae6c4a00963c3e00453dd26dd38004f771a366d5b6c05fdc9b49713b02e9ab10d2ec3893f2480c4355b29c4b"
+
+[update]
+[update.modrinth]
+mod-id = "JRhdijgD"
+version = "nMW4YJds"

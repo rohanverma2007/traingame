@@ -1,0 +1,13 @@
+name = "Kin's Wathe"
+filename = "kinswathe-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rHgXpK01/versions/tr5nQegN/kinswathe-1.6.4.jar"
+hash-format = "sha512"
+hash = "45235a11ca99917346d8c0eb679ecb17d79031c58768289bdc92b77cd1fa89e615992e7691ad6a1570a79e153556fb9b9c9fadd92040b8ec906a6dd59f852317"
+
+[update]
+[update.modrinth]
+mod-id = "rHgXpK01"
+version = "tr5nQegN"

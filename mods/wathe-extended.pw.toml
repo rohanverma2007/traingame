@@ -1,0 +1,13 @@
+name = "Wathe: Extended"
+filename = "WatheExtended-3.4.132.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7LadFLDS/versions/pywz9YNA/WatheExtended-3.4.132.jar"
+hash-format = "sha512"
+hash = "ffe20f45d1863140c1f1c5209c9b96c61e3a445a60c543a16da4c3beb90d0240617263d4293864533277507381ebe4b66121af331fa09b594265ef73cf063a9b"
+
+[update]
+[update.modrinth]
+mod-id = "7LadFLDS"
+version = "pywz9YNA"

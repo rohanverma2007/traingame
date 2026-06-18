@@ -1,0 +1,13 @@
+name = "Starry Express"
+filename = "starry-express-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eaW0Iw6t/versions/I2GQp61o/starry-express-1.3.2.jar"
+hash-format = "sha512"
+hash = "5b4d7cc10c67b604c60859d414cc5ed259b944b10f48c13feb95fe4e39266c6de6572c9110549edf2e23f749937382118adce10a8bd864d41e209dd79e9f8d48"
+
+[update]
+[update.modrinth]
+mod-id = "eaW0Iw6t"
+version = "I2GQp61o"

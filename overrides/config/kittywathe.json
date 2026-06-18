@@ -1,0 +1,9 @@
+{
+  "votingEnabled": true,
+  "mapHudDurationTicks": 160,
+  "mapHudFadeTicks": 40,
+  "minPlayersForMurder": 6,
+  "looseEndsChance": 5,
+  "randomMapButton": true,
+  "requireMod": true
+}

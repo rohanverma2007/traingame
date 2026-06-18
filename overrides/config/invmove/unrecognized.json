@@ -1,0 +1,34 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_429": true,
+    "net.minecraft.class_458": true,
+    "net.minecraft.class_6599": true,
+    "net.minecraft.class_446": true,
+    "net.minecraft.class_4288": true,
+    "net.minecraft.class_443": true,
+    "net.minecraft.class_5375": true,
+    "net.minecraft.class_4189": true,
+    "net.minecraft.class_440": true,
+    "net.minecraft.client.gui.screen.GameMenuScreen": true,
+    "dev.doctor4t.wathe.client.gui.screen.ingame.LimitedInventoryScreen": true,
+    "dev.doctor4t.wathe.client.gui.screen.ingame.NoteScreen": false,
+    "dev.isxander.yacl3.gui.YACLScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
+    "de.maxhenkel.voicechat.gui.audiodevice.SelectMicrophoneScreen": true,
+    "cat.rezelyn.watheextended.client.screen.GuidebookScreen": true,
+    "net.minecraft.class_404": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.DoormatScreen": true,
+    "net.satisfy.vinery.client.gui.FermentationBarrelGui": true,
+    "net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI": true,
+    "de.maxhenkel.voicechat.gui.audiodevice.SelectSpeakerScreen": true,
+    "net.minecraft.class_407": true,
+    "sh.tomcat.kittywathe.client.gui.MapSelectScreen": true,
+    "eu.midnightdust.core.screen.MidnightConfigOverviewScreen": true,
+    "eu.midnightdust.lib.config.MidnightConfig$MidnightConfigScreen": true
+  },
+  "hideBackground": {
+    "dev.doctor4t.wathe.client.gui.screen.ingame.LimitedInventoryScreen": true
+  }
+}

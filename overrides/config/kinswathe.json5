@@ -1,0 +1,98 @@
+{
+	// Starting cooldown and game safe time (in seconds).
+	StartingCooldown: 30,
+	// Whether to enable staminabar.
+	EnableStaminaBar: false,
+	// Whether to enable jump when not in game.
+	EnableJumpNotInGame: true,
+	// Whether to enable safe time when game starts.
+	EnableStartSafeTime: true,
+	// Whether to enable auto join voice chat group for spectators.
+	EnableAutoJoinVoiceChat: true,
+	// Whether to enable better Blackout visual effect.
+	EnableBetterBlackout: true,
+	// Whether to enable instinct when in Psycho Mode.
+	EnableAutoPsychoInstinct: true,
+	// 
+	// 
+	// [Wathe] Modify (default settings are original settings of Wathe):
+	EnableWatheModify: false,
+	// Initial civilians income.
+	InitialCivilianIncome: 0,
+	// Initial neutrals income.
+	InitialNeutralIncome: 0,
+	// Initial killers income.
+	InitialKillerIncome: 100,
+	// Increase money when kill player.
+	IncreaseMoneyWhenKill: 100,
+	// Whether Revolver drop after killer kills civilian.
+	PreventKillerDropRevolver: false,
+	// 
+	// 
+	// [Kin's Wathe] Modify:
+	// Bellringer: modify price and cooldown of ability.
+	BellringerAbilityPrice: 200,
+	BellringerAbilityCooldown: 120,
+	// Bodymaker: modify cooldown of ability and whether to fake role of body.
+	BodymakerAbilityCooldown: 90,
+	BodymakerAbilityFakeRole: true,
+	// Cleaner: modify get coins when dissolve a body, price and cooldown of ability.
+	CleanerGetCoins: 50,
+	CleanerAbilityCooldown: 150,
+	// Cook: modify price of Pan.
+	CookPanPrice: 250,
+	// Detective: modify price and cooldown of ability.
+	DetectiveAbilityPrice: 200,
+	DetectiveAbilityCooldown: 90,
+	// Dreamer: modify initial quantity of Dream Imprint.
+	DreamerInitialItemQuantity: 1,
+	// Drugmaker: modify generation player limit, get coins when someone was poisoned and price of Poison Injector and Blowgun.
+	DrugmakerPlayerLimit: 10,
+	DrugmakerGetCoins: 50,
+	DrugmakerPoisonInjectorPrice: 125,
+	DrugmakerBlowgunPrice: 175,
+	// Hacker: modify generation limit, hacking time, whether to enable shop and price of props.
+	HackerPlayerLimit: 10,
+	HackerGenerateWithMimic: false,
+	HackerHackingTime: 30,
+	HackerHasShop: true,
+	HackerRefreshWeaponCooldownPrice: 300,
+	HackerRefreshAbilityCooldownPrice: 400,
+	HackerRefreshPotionEffectPrice: 200,
+	// Hunter: modify price and cooldown of ability.
+	HunterAbilityPrice: 125,
+	HunterAbilityCooldown: 5,
+	// Judge: modify price and cooldown of ability.
+	JudgeAbilityPrice: 300,
+	JudgeAbilityGlowing: 90,
+	JudgeAbilityCooldown: 180,
+	// Kidnapper: modify price of Knockout Drug and get additional coins when kill dazed player.
+	KidnapperKnockoutDrugPrice: 75,
+	KidnapperGetAdditionalCoins: 100,
+	// Licensed Villain: modify generation player limit and price of Revolver.
+	LicensedVillainPlayerLimit: 10,
+	LicensedVillainRevolverPrice: 300,
+	// Physician: modify price of Pill.
+	PhysicianPillPrice: 300,
+	// Robot: modify duration and cooldown of ability.
+	RobotAbilityDuration: 10,
+	RobotAbilityCooldown: 90,
+	// Technician: modify price of props and Capture Device parameter.
+	TechnicianWrenchPrice: 100,
+	TechnicianCaptureDevicePrice: 100,
+	TechnicianPowerRestorationPrice: 300,
+	TechnicianCaptureDeviceStunTime: 5,
+	TechnicianCaptureDeviceLifetimeSeconds: 180,
+	// Violator: whether to allow Violator to retain disable/enable state after a server restart.
+	ViolatorEnabled: true,
+	// 
+	// 
+	// [Noelle's Roles] Modify (default settings are original settings of Noelle's Roles):
+	EnableNoellesRolesModify: false,
+	// Conductor: whether to enable instinct of seeing dropped items.
+	ConductorInstinctModify: false,
+	// Coroner: whether to enable instinct of seeing player bodies.
+	CoronerInstinctModify: false,
+	// Jester: whether to enable prevent attack killer in Psycho Mode.
+	JesterAttackKillerModify: false
+}

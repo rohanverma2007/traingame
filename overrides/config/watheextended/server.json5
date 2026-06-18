@@ -1,0 +1,59 @@
+{
+  "playerCollisions": {
+    // Whether player-to-player collisions are enabled during a game.
+    "enabled": true
+  },
+  "rtp": {
+    // Whether players are randomly teleported to a random slot when the game starts.
+    "enabled": true
+  },
+  "blockProtection": {
+    // Whether block interactions are protected in the mapVariables areas.
+    "enabled": true
+  },
+  "itemBoundsCheck": {
+    // Whether items that fall outside the playArea are teleported back to the nearest player/dead body.
+    "enabled": true
+  },
+  "forbiddenLovers": {
+    // Enables the Forbidden Lovers mechanic: always have lovers pair being
+    // a Killer/Neutral and a non-Killer. Requires Stupid Express mod.
+    "enabled": false,
+    // Probability (0.0–1.0) that Forbidden Lovers are actually assigned each game.
+    // If chance fails, no Lovers will be assigned whatsoever.
+    "chance": 0.25
+  },
+  "introverted": {
+    // Minimum number of nearby players (within crowdRange) for the Introverted modifier to consider the player in a crowd.
+    "crowdCount": 3,
+    // Radius in blocks in which other players are counted toward the crowd threshold.
+    "crowdRange": 5.0,
+    // Mood drain multiplier applied when the player is considered in a crowd.
+    "crowdDrainMultiplier": 2.0,
+    // Mood drain multiplier applied when the player is alone or with only one other player.
+    "aloneDrainMultiplier": 0.5
+  },
+  "taxed": {
+    // Fraction of kill income deducted when a Taxed player exceeds the kill threshold.
+    "coinReduction": 0.5,
+    // Number of kills within the time window before tax starts applying (default: 1 = more than 1 kill).
+    "killThreshold": 1,
+    // Time window in seconds during which kills are counted towards the threshold (default: 60 = 1 minute).
+    "killWindowSeconds": 60
+  },
+  "adaptive": {
+    // Fraction penalty applied to kill income when the same method is used consecutively.
+    "penaltyReduction": 0.25,
+    // Fraction bonus applied to kill income when a different method is used.
+    "bonusMultiplier": 0.5
+  },
+  "ability": {
+    // When enabled, suppresses VFX/SFX triggered by role abilities (Starstruck, Robot, Bellringer).
+    "suppressVfxSfx": false
+  },
+  "cleaner": {
+    // Minimum number of alive players required for the Cleaner's Deep Cleaning ability to be active.
+    // Set to 0 to disable this limit.
+    "playerLimit": 10
+  }
+}
