@@ -364,11 +364,6 @@ hash = "1dbad0022cbb244d3c924598d19c9917eb40dfb40dcfbbdff4cdb5c52287ab1e"
 metafile = true
 
 [[files]]
-file = "mods/kittywathe.pw.toml"
-hash = "872cb14d8390d3515572714e70a7d1ea361ec1e21771227e568f338c9bf26954"
-metafile = true
-
-[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "2e60b559b948249922cbe8140a081e5fcfa0861803b2020f020da93edda2db9b"
 metafile = true
